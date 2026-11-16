@@ -1,1 +1,2 @@
 Измененный rebase.txt в ветве master
+Измененный rebase.txt в ветке rebase-branch
