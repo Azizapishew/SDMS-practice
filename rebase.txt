@@ -1,1 +1,1 @@
-Создание файла rebase.txt в ветке master
+Измененный rebase.txt в ветве master
